@@ -1,6 +1,6 @@
 # medi
 
-A new Flutter project.
+we remove some features which affected the functionality of the application when we add it to mobile. 
 
 ## Getting Started
 
